@@ -37,3 +37,8 @@ Check the TODO 4 in the code
 When the user types something in the search bar (located in the sidebar), you need to update the state
 and call the filterMovie function
 Check the TODO 5 in the code
+
+### Solution
+The solution is deployed live [here](https://stupefied-joliot-46811a.netlify.com/)
+
+You can take a look at the solution to see how the app should behave
