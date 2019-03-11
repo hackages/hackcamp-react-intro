@@ -1,0 +1,34 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  background: #141414;
+  /*background: #16161d;
+  background: linear-gradient(#434343, #16161d);*/
+  position: relative;
+}
+
+header img {
+  display: block;
+  height: 6rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+/*header h1 {
+  color: #e50914;
+  font-size: 6rem;
+  margin: 0 .5rem;
+}*/
+
+@media only screen and (min-width: 1170px) {
+  header {
+    height: 250px;
+  }
+  header img{
+    height: 8rem;
+  }
+}
