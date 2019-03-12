@@ -1,5 +1,10 @@
 # HackCamp React - Introduction
 
+### Welcome to the Hackages React challenge!
+We have put together a small challenge for you to put your React knowledge to test! 
+
+Below you can find small subtasks for you to complete. Have fun!
+
 ### Getting started
 
 First off, you will need to clone the project:
@@ -13,7 +18,7 @@ yarn start (or npm run start)
 ```
 
 
-### Challenges
+### Tasks
 
 #### 1.
 The header is rendered directly in the app.js. Try to extract it and create a Header component to then use this component instead of the header
@@ -55,8 +60,12 @@ The solution is deployed live [here](https://stupefied-joliot-46811a.netlify.com
 
 You can take a look at the solution to see how the app should behave when everything is correct.
 
-You enjoyed this challenge?
+### Congrats! You finished the challenge!
+ 
+You realised you need to brush your JS knowledge a bit? No worries, we offer the 2-day JavaScript Masterclass! 
+ 
+You loved it but you think your React skills are not on point yet? Check out our upcoming React HackCamps training sessions around Europe where you can learn all about React and Redux and continue building HackFlix guided by expert mentors!
+ 
+Found it too easy? We have more content for you! Check out the HackCamp Advanced React, to learn Higher Order Components, Testing with Enzyme and more!
 
-Check out our upcoming React HackCamps training sessions around Europe where you can learn all about React and Redux and continue building HackFlix guided by expert mentors!
-
-https://hackages.io/events
+https://hackages.io/events 
