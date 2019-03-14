@@ -64,7 +64,7 @@ You realised you need to brush your JS knowledge a bit? No worries, we offer the
  
 You loved it but you think your React skills are not on point yet? Check out our upcoming React HackCamps training sessions around Europe where you can learn all about React and Redux and continue building HackFlix guided by expert mentors! https://hackages.io/events?tech=React
  
-Found it too easy? We have more content for you! Check out the HackCamp Advanced React, to learn Higher Order Components, Hooks and more!
+Found it too easy? We have more content for you! Check out the HackCamp Advanced React, to learn Higher Order Components, Hooks and more! https://hackages.io/events?tech=React
 
 BONUS POINT! If you completed the challenge and everything works, we give you a 5% discount for one of our trainings of your choice! How to get it? Easy! Deploy your work on Netlify and send us a pull request. We will check it and come back to you!
 
