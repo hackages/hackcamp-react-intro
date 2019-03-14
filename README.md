@@ -60,12 +60,12 @@ You can take a look at the solution to see how the app should behave when everyt
 
 ### Congrats! You finished the challenge!
  
-You realised you need to brush your JS knowledge a bit? No worries, we offer the 2-day JavaScript Masterclass! https://hackages.io/events?tech=Javascript
+You realised you need to brush your JS knowledge a bit? No worries, we offer the [2-day JavaScript Masterclass](https://hackages.io/events?tech=Javascript)! 
  
-You loved it but you think your React skills are not on point yet? Check out our upcoming React HackCamps training sessions around Europe where you can learn all about React and Redux and continue building HackFlix guided by expert mentors! https://hackages.io/events?tech=React
+You loved it but you think your React skills are not on point yet? Check out our upcoming [React HackCamps training sessions](https://hackages.io/events?tech=React) around Europe where you can learn all about React and Redux and continue building HackFlix guided by expert mentors! 
  
-Found it too easy? We have more content for you! Check out the HackCamp Advanced React, to learn Higher Order Components, Hooks and more! https://hackages.io/events?tech=React
+Found it too easy? We have more content for you! Check out the [HackCamp Advanced React](https://hackages.io/events?tech=React), to learn Higher Order Components, Hooks and more! 
 
-BONUS POINT! If you completed the challenge and everything works, we give you a 5% discount for one of our trainings of your choice! How to get it? Easy! Deploy your work on Netlify and send us a pull request. We will check it and come back to you!
+*BONUS POINT! If you completed the challenge and everything works, we give you a 5% discount for one of our trainings of your choice! How to get it? Easy! Deploy your work on Netlify and send us a pull request. We will check it and come back to you!*
 
 https://hackages.io/events 
